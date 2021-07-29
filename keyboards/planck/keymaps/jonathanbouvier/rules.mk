@@ -1,0 +1,4 @@
+SRC += muse.c
+ENCODER_ENABLE = no
+DIP_SWITCH_ENABLE = no
+TAP_DANCE_ENABLE = yes
